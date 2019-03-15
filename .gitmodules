@@ -1,0 +1,3 @@
+[submodule "aar"]
+	path = aar
+	url = git@github.com:Cognex-ID/cmbsdk-android-binary.git
