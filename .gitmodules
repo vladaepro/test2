@@ -1,3 +1,6 @@
 [submodule "aar"]
 	path = aar
 	url = git@github.com:Cognex-ID/cmbsdk-android-binary.git
+[submodule "header"]
+	path = header
+	url = git@github.com:vladaepro/test.git
